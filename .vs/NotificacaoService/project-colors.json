@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2f1c7e61-98c7-4a8c-a8ea-5a893269ff91": {
+      "ProjectGuid": "2f1c7e61-98c7-4a8c-a8ea-5a893269ff91",
+      "DisplayName": "NotificacaoService.Domain",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

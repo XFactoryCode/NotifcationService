@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c6cc53e-1ed8-4058-8445-6c6cfe816de5": {
+      "ProjectGuid": "2c6cc53e-1ed8-4058-8445-6c6cfe816de5",
+      "DisplayName": "Branef.NotificacaoService.BFI",
+      "ColorIndex": 0
+    },
+    "f253c235-d9cc-4c5e-ae0a-c49151c7620e": {
+      "ProjectGuid": "f253c235-d9cc-4c5e-ae0a-c49151c7620e",
+      "DisplayName": "Templates",
+      "ColorIndex": 1
+    },
+    "2f1c7e61-98c7-4a8c-a8ea-5a893269ff91": {
+      "ProjectGuid": "2f1c7e61-98c7-4a8c-a8ea-5a893269ff91",
+      "DisplayName": "Branef.NotificacaoService.Domain",
+      "ColorIndex": 2
+    },
+    "ce3c10bb-95dc-4181-aade-1365911f85b3": {
+      "ProjectGuid": "ce3c10bb-95dc-4181-aade-1365911f85b3",
+      "DisplayName": "Branef.NotificacaolService.Infrastructure",
+      "ColorIndex": 3
+    },
+    "24f17ef8-048c-4429-a66b-63c343af53af": {
+      "ProjectGuid": "24f17ef8-048c-4429-a66b-63c343af53af",
+      "DisplayName": "Branef.NotificacaoService.Services",
+      "ColorIndex": 4
+    },
+    "58d7151b-c86a-4190-888d-2c6e4b1cb4e6": {
+      "ProjectGuid": "58d7151b-c86a-4190-888d-2c6e4b1cb4e6",
+      "DisplayName": "Branef.NotificacaoService.Qeue.Consumer",
+      "ColorIndex": 5
+    },
+    "8294d110-1750-41bf-a1e1-1a6a599b3e88": {
+      "ProjectGuid": "8294d110-1750-41bf-a1e1-1a6a599b3e88",
+      "DisplayName": "Branef.NotificacaoService.Consumers",
+      "ColorIndex": 6
+    },
+    "301178aa-caa8-4bad-9f58-a8328f245b04": {
+      "ProjectGuid": "301178aa-caa8-4bad-9f58-a8328f245b04",
+      "DisplayName": "Branef.NotificacaoService.Common",
+      "ColorIndex": 7
+    },
+    "f2dca6b7-49ea-48fa-bd92-9757075c31da": {
+      "ProjectGuid": "f2dca6b7-49ea-48fa-bd92-9757075c31da",
+      "DisplayName": "Branef.NotificacaoService.Consumer",
+      "ColorIndex": 8
+    },
+    "cdccbb8b-099a-4a4c-b131-d2fb99517d3d": {
+      "ProjectGuid": "cdccbb8b-099a-4a4c-b131-d2fb99517d3d",
+      "DisplayName": "Branef.NotificacaoService.Qeue.Consumer",
+      "ColorIndex": 9
+    },
+    "3e3f2b19-4ad2-46d0-9d03-c4edd12da6f8": {
+      "ProjectGuid": "3e3f2b19-4ad2-46d0-9d03-c4edd12da6f8",
+      "DisplayName": "Branef.NotificacaoService.Consumers",
+      "ColorIndex": 10
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 11
+}
