@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GZGxendICuSIRo2QsJzQINQJRWfmNgmyFwvTF8HDoQQwLdvG5mMxCu0Kq0bWU/hM5nFjpBzkqHqMfl+utIqF/A==",
+  "dgSpecHash": "/3xcNjcZJ4CZ3RTjYxymmIaeyk9Or01V2wmJDTMSWmK0Ptm1/Vab2u8W0xOXDHgemTgROPWCrkFxPf5YQjENzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Infrastructure\\NotificacaolService.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Infrastructure\\NotificacaolService.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafae\\.nuget\\packages\\automatonymous\\5.1.3\\automatonymous.5.1.3.nupkg.sha512",
     "C:\\Users\\Rafae\\.nuget\\packages\\greenpipes\\4.0.1\\greenpipes.4.0.1.nupkg.sha512",

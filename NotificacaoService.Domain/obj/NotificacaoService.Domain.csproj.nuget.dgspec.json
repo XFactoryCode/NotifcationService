@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Domain\\NotificacaoService.Domain.csproj": {}
+    "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Domain\\NotificacaoService.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Domain\\NotificacaoService.Domain.csproj": {
+    "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Domain\\NotificacaoService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Domain\\NotificacaoService.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Domain\\NotificacaoService.Domain.csproj",
         "projectName": "NotificacaoService.Domain",
-        "projectPath": "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Domain\\NotificacaoService.Domain.csproj",
+        "projectPath": "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Domain\\NotificacaoService.Domain.csproj",
         "packagesPath": "C:\\Users\\Rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

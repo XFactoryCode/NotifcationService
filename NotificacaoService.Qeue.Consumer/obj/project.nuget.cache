@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ldj7WHh7NaIzVg/NU/uDwTNQ7oDQ2X2IzVdgd6Mpw9qUhiO/IQuK7irTaOZi6FOKOLANIOV9HJaFDP+2GLpQsA==",
+  "dgSpecHash": "H2VaXcvM+uQGGc5GNyywbOtRsVxmkm/iM5RDVvG55gYlwtk2WMsbZV4l5HhfZ42hNLMno5P8ELAcS0r1Fxbaag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Qeue.Consumer\\NotificacaoService.Qeue.Consumer.csproj",
+  "projectFilePath": "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Qeue.Consumer\\NotificacaoService.Qeue.Consumer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

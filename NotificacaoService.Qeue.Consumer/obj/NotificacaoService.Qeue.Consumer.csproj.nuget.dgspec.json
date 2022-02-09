@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Qeue.Consumer\\NotificacaoService.Qeue.Consumer.csproj": {}
+    "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Qeue.Consumer\\NotificacaoService.Qeue.Consumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Qeue.Consumer\\NotificacaoService.Qeue.Consumer.csproj": {
+    "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Qeue.Consumer\\NotificacaoService.Qeue.Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Qeue.Consumer\\NotificacaoService.Qeue.Consumer.csproj",
+        "projectUniqueName": "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Qeue.Consumer\\NotificacaoService.Qeue.Consumer.csproj",
         "projectName": "NotificacaoService.Qeue.Consumer",
-        "projectPath": "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Qeue.Consumer\\NotificacaoService.Qeue.Consumer.csproj",
+        "projectPath": "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Qeue.Consumer\\NotificacaoService.Qeue.Consumer.csproj",
         "packagesPath": "C:\\Users\\Rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Qeue.Consumer\\obj\\",
+        "outputPath": "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Qeue.Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

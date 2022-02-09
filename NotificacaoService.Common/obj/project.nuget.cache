@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JyTOX64s+YoyheQaGa8tMley7XDe4kCLHYGF2L9LC64cTbbvS0XVd5fh3+1Y84NyOsAtcitk8zaIyYHeCvHbdg==",
+  "dgSpecHash": "9J3sH7OWaNzTukImk/bmI3e2zXBsNVU+oGdqOcOGIXdz74b7X7/1YTn3qCWXFKDHb+/Kkh0SUiK/4WX0QVo9vQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Common\\NotificacaoService.Common.csproj",
+  "projectFilePath": "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Common\\NotificacaoService.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -4732,11 +4732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Infrastructure\\NotificacaolService.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Infrastructure\\NotificacaolService.Infrastructure.csproj",
       "projectName": "NotificacaolService.Infrastructure",
-      "projectPath": "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Infrastructure\\NotificacaolService.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Infrastructure\\NotificacaolService.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4756,11 +4756,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Common\\NotificacaoService.Common.csproj": {
-              "projectPath": "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Common\\NotificacaoService.Common.csproj"
+            "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Common\\NotificacaoService.Common.csproj": {
+              "projectPath": "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Common\\NotificacaoService.Common.csproj"
             },
-            "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Domain\\NotificacaoService.Domain.csproj": {
-              "projectPath": "C:\\Users\\Rafae\\Documents\\Projetos\\pgls\\Source\\Micro Services\\NotificacaoService.Domain\\NotificacaoService.Domain.csproj"
+            "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Domain\\NotificacaoService.Domain.csproj": {
+              "projectPath": "C:\\Users\\Rafae\\Documents\\Projetos\\NotifcationService\\NotificacaoService.Domain\\NotificacaoService.Domain.csproj"
             }
           }
         }
